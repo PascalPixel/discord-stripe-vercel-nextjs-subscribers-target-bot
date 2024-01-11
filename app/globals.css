@@ -1,4 +1,9 @@
 html {
   background: black;
   color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  max-width: 64ch;
 }
