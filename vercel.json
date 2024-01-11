@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/daily-discord-message",
+      "schedule": "0 9 * * *"
+    }
+  ]
+}
